@@ -134,16 +134,11 @@
     </modules>
 
     <scm>
-        <connection>scm:git:https://git-wip-us.apache.org/repos/asf/incubator-storm.git</connection>
-        <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/incubator-storm.git</developerConnection>
+        <connection>scm:git:https://github.com/SergeyDo/incubator-storm.git</connection>
+        <developerConnection>scm:git:https://github.com/SergeyDo/incubator-storm.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://git-wip-us.apache.org/repos/asf/incubator-storm</url>
+        <url>https://github.com/SergeyDo/incubator-storm.git</url>
     </scm>
-
-    <issueManagement>
-        <system>jira</system>
-        <url>https://issues.apache.org/jira/browse/STORM</url>
-    </issueManagement>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
